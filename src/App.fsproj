@@ -8,7 +8,6 @@
     <Compile Include="Fable.Import.ReactBeautifulDnd.fs" />
     <Compile Include="Feliz.ReactBeautifulDnD.fs" />
     <Compile Include="DndDemo.fs" />
-    <Compile Include="Components.fs" />
     <Compile Include="Main.fs" />
   </ItemGroup>
   <ItemGroup>
